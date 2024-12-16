@@ -32,4 +32,4 @@ const SidebarOption: React.FC<SidebarOptionProps> = ({ text, Icon, isActive, set
   );
 }
  
-export default SidebarOption;
+export default SidebarOption

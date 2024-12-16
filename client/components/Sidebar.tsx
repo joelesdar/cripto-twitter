@@ -103,4 +103,4 @@ const Sidebar = ({initialSeletedIcon = 'Home'}) => {
    );
 }
  
-export default Sidebar;
+export default Sidebar
