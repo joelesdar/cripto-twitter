@@ -6,11 +6,11 @@ const style = {
 }
 
 interface SidebarOptionProps {
-  text: string;
-  Icon: React.ElementType;
-  isActive?: boolean;
-  setSelected: (selected: string) => void;
-  redirect?: string;
+  text: string
+  Icon: React.ElementType
+  isActive?: boolean
+  setSelected: (selected: string) => void
+  redirect?: string
 }
 
 const SidebarOption: React.FC<SidebarOptionProps> = ({ text, Icon, isActive, setSelected, redirect }) => {

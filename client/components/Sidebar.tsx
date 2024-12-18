@@ -91,7 +91,7 @@ const Sidebar = ({initialSeletedIcon = 'Home'}) => {
         <div className={style.profileRight}>
           <div className={style.details}>
             <div className={style.name}>Joelesdar</div>
-            <div className={style.handle}>@0x22dF...89sdf</div>
+            <div className={style.handle}>@0xf39Fd...92266</div>
           </div>
           <div className={style.moreContainer}>
             <FiMoreHorizontal />
